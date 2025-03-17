@@ -1,5 +1,5 @@
 ## Hi there, I am Blessing 👋
-- 🔭 I’m currently working on Web Development and Android Development✨
+- 🔭 I’m currently working on Web Development and Mobile Development✨
 - 🌱 I’m currently learning Computer Science at Kabarak University
 - 👯 I’m looking to collaborate on Machine Learning, Data Science and Artificial Intelligence
 - 💬 Ask me about Data

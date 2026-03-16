@@ -1,22 +1,32 @@
-## Hi there, I am Blessing 👋
-- 🔭 I’m currently working on Web Development and Mobile Development✨
-- 🌱 I’m currently learning Computer Science at Kabarak University
-- 👯 I’m looking to collaborate on Machine Learning, Data Science and Artificial Intelligence
-- 💬 Ask me about Data
-- 📫 How to reach me: wmugo@kabarak.ac.ke
-- 😄 Pronouns: She/Her
+# Hi there, I'm Blessing 👋
 
-<!--
-**M-Bless/M-Bless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Mobile & Web Developer | AI & Data Science Enthusiast
 
-Here are some ideas to get you started:
+I enjoy building mobile, web, and data-driven applications that solve real-world problems. I have experience developing cross-platform and Android applications using Flutter and Kotlin, as well as working with web technologies and data analysis.
 
-- 🔭 I’m currently working on Web Development✨
-- 🌱 I’m currently learning Computer Science at Kabarak University
-- 👯 I’m looking to collaborate on Machine Learning, Data Science and Artificial Intelligence
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Data
-- 📫 How to reach me: ...
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Working On
+- 📱 Mobile and web application development  
+- 📊 Exploring data science, machine learning, and AI  
+- 🔍 Building practical projects that combine development and data  
+
+## 🛠️ Technologies
+- Flutter  
+- Kotlin  
+- Python  
+- HTML & CSS  
+- JavaScript  
+- Firebase  
+- Git & GitHub  
+
+## 📌 Projects
+- 📱 Medicine Reminder App (Flutter)  
+- 🧠 Type 1 Diabetes Smart Glucometer Assistant  
+- 🤖 AI-based Cervical Cancer Prediction  
+- 📊 Data analysis projects using Python  
+
+## 🤝 Collaboration
+I’m open to collaborating on projects related to mobile development, web development, data science, and AI.
+
+## 📫 Contact
+Email: wangoiblessing@gmail.com  
+LinkedIn: https://www.linkedin.com/in/blessing-wangoi-978a65284/
